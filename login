@@ -1,1 +1,2 @@
-git checkout -b feature-login
+git checkout main
+git merge feature-login
