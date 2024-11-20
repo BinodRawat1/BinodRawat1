@@ -1,1 +1,2 @@
-git push -u origin main
+git add .
+
